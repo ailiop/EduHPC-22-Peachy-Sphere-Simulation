@@ -1,5 +1,7 @@
 # MIT 6.172 Assignment:<br/>Simulation and Rendering of Colliding Spheres
 
+[![Zenodo](https://zenodo.org/badge/529455478.svg)](https://zenodo.org/badge/latestdoi/529455478)
+
 This assignment was used as Project 2 for the MIT 6.172 (now 6.106) course
 _Performance Engineering of Software Systems_ in the Fall semester of 2021.
 The assignment was published as a Peachy Parallel Assignment in the [EduHPC-22
